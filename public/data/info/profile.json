@@ -1,49 +1,49 @@
 {
-    "name": "Jonas Einstein",
+    "name": "Christine",
     "profilePictureUrl": "images/pictures/avatar.png",
 
     "locales": {
         "en": {
-            "credits": "Designed by <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "UX Designer"
+            "credits": "Designed by <strong><a class='light' href='https://t.me/Shpaldik'>Shpaldik</a></strong>",
+            "role": "Economist"
         },
 
         "es": {
-            "credits": "Hecho por <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer de UX"
+            "credits": "Hecho por <strong><a class='light' href='https://t.me/Shpaldik'>Shpaldik</a></strong>",
+            "role": "Economista"
         },
 
         "fr": {
-            "credits": "Conçu par <strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "Designer UX"
+            "credits": "Conçu par <strong><a class='light' href='https://t.me/Shpaldik'>Shpaldik</a></strong>",
+            "role": "L'économiste"
         },
 
         "zh": {
-            "credits": "设计：<strong><a class='light' href='https://github.com/ryanbalieiro'>Ryan Balieiro</a></strong>",
-            "role": "用户体验设计师"
+            "credits": "设计：<strong><a class='light' href='https://t.me/Shpaldik'>Shpaldik</a></strong>",
+            "role": "经济学家"
         }
     },
 
     "contact": {
         "address": {
             "id": "address",
-            "value": "123 Main Street, Cupertino, CA 01234",
-            "valueShort": "Cupertino, CA 01234",
+            "value": "United Kingdom",
+            "valueShort": "United Kingdom",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
 
         "email": {
             "id": "email",
-            "value": "jonas.einstein@genius.com",
-            "valueShort": "jonas.einstein@genius.com",
+            "value": "battoryk@mail.ru",
+            "valueShort": "battoryk@mail.ru",
             "faIcon": "fa-solid fa-envelope",
-            "href": "mailto:jonas.einstein@genius.com"
+            "href": "mailto:battoryk@mail.ru"
         },
 
         "facebook": {
             "id": "facebook",
-            "value": "Jonas Einstein",
+            "value": "Christine",
             "valueShort": "J. Einstein",
             "faIcon": "fa-brands fa-facebook",
             "href": "https://facebook.com"
@@ -75,10 +75,10 @@
 
         "phone": {
             "id": "phone",
-            "value": "+1 (123) 456-7890",
-            "valueShort": "(123) 456-7890",
+            "value": "+44 7494 606802",
+            "valueShort": "+44 7494 606802",
             "faIcon": "fa-solid fa-phone",
-            "href": "tel:1234567890"
+            "href": "tel:447494606802"
         }
     }
 }

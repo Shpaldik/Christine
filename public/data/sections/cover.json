@@ -1,27 +1,27 @@
 {
     "locales": {
         "en": {
-            "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
+            "welcome": "Welcome to my <span class='text-primary'>Profile!</span>",
             "welcomeShort": "Welcome!",
-            "bio": "With 8 years as a UX designer, I excel in user-centric interfaces. My passion for empathetic design drives me to create delightful and innovative digital experiences. Let's collaborate and craft something extraordinary together."
+            "bio": "Hi, I'm Christina - the future world's most successful entrepreneur, researcher and writer. My passion is analysing economic trends and turning complex concepts into accessible and understandable ideas. Here I will share my articles that help make sense of the world of finance and economic policy. Sometimes my thoughts on politics and sociology will be here, as I'm more of a thinker who turns numbers into ideas. Join me on a journey through the fascinating world of economics where we explore, discuss and ask important questions."
         },
 
         "es": {
-            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>CV!</span>",
+            "welcome": "¡Bienvenido(a) a mi <span class='text-primary'>Perfil!</span>",
             "welcomeShort": "¡Saludos!",
-            "bio": "Con 8 años de experiencia como diseñador de UX, destaco en la creación de interfaces centradas en el usuario. Mi pasión por el diseño empático me impulsa a crear experiencias digitales encantadoras e innovadoras. Colaboremos juntos para crear algo extraordinario."
+            "bio": "Hola, soy Christina, la futura empresaria, investigadora y escritora de más éxito del mundo. Mi pasión es analizar las tendencias económicas y convertir conceptos complejos en ideas accesibles y comprensibles. Aquí compartiré mis artículos que ayudan a dar sentido al mundo de las finanzas y la política económica. A veces aparecerán aquí mis reflexiones sobre política y sociología, ya que soy más bien un pensador que convierte los números en ideas. Acompáñeme en un viaje por el fascinante mundo de la economía en el que exploraremos, debatiremos y nos haremos preguntas importantes.Traducción realizada con la versión gratuita del traductor DeepL.com"
         },
 
         "fr": {
-            "welcome": "Bienvenue sur mon <span class='text-primary'>CV</span>!",
+            "welcome": "Bienvenue sur mon <span class='text-primary'Profil</span>!",
             "welcomeShort": "Bienvenue!",
-            "bio": "Avec 8 ans en tant que designer UX, j'excele dans les interfaces centrées sur l'utilisateur. Ma passion pour le design empathique me pousse à créer des expériences numériques délicieuses et innovantes. Collaborons ensemble pour créer quelque chose d'extraordinaire."
+            "bio": "Bonjour, je suis Christina - la future entrepreneuse, chercheuse et écrivaine la plus prospère du monde. Ma passion est d'analyser les tendances économiques et de transformer des concepts complexes en idées accessibles et compréhensibles. Je partagerai ici mes articles qui aident à comprendre le monde de la finance et de la politique économique. Parfois, mes réflexions sur la politique et la sociologie y figureront, car je suis plutôt un penseur qui transforme les chiffres en idées. Rejoignez-moi pour un voyage dans le monde fascinant de l'économie où nous explorons, discutons et posons des questions importantes."
         },
 
         "zh": {
             "welcome": "欢迎来到我的<span class='text-primary'>简历</span>！",
             "welcomeShort": "欢迎!",
-            "bio": "作为一名有着8年UX设计经验的设计师，我擅长以用户为中心的界面设计。我对于共情设计的热情驱使着我创造出令人愉悦且创新的数字体验。让我们一起合作，打造出非凡的作品吧。"
+            "bio": "大家好，我是克里斯蒂娜--未来世界最成功的企业家、研究员和作家。我的爱好是分析经济趋势，将复杂的概念转化为通俗易懂的观点。在这里，我将与大家分享我的文章，帮助大家理解金融和经济政策世界。有时，我对政治和社会学的思考也会在这里发表，因为我更像是一个将数字转化为思想的思想家。请加入我的旅程，在迷人的经济学世界中探索、讨论并提出重要问题。"
         }
     },
 
