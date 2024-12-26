@@ -70,10 +70,10 @@
     },
 
     "uxStudio": {
-        "logoUrl": "images/places/logo-ux-studio.png",
+        "logoUrl": "images/places/circularity.png",
         "faIcon": "fas fa-paint-brush",
         "locales": {
-            "en": {"name": "UX Masters Studio"}
+            "en": {"name": "Link to watch"}
         }
     }
 }

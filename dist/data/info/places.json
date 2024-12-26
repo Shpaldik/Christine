@@ -1,41 +1,41 @@
 {
-    "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
-        "faIcon": "fa fa-house-laptop",
-        "locales": {
-            "en": {"name": "Link to watch"}
-        }
-    },
-
-    "apple": {
-        "logoUrl": "images/places/micro.png",
-        "faIcon": "fab fa-apple",
-        "locales": {
-            "en": {"name": "Link to watch"}
-        }
-    },
-
-    "coursera": {
-        "logoUrl": "images/places/economy.png",
-        "faIcon": "fa fa-house-laptop",
-        "locales": {
-            "en": {"name": "Link to watch"}
-        }
-    },
-
-    "forbes": {
-        "logoUrl": null,
-        "faIcon": "fa-solid fa-newspaper",
-        "locales": {
-            "en": {"name": "Link to watch"}
-        }
-    },
-
-    "google": {
-        "logoUrl": null,
-        "faIcon": "fab fa-google",
-        "locales": {
-            "en": {"name": "Link to watch"}
-        }
+  "adobe": {
+    "logoUrl": "images/places/circularity.png",
+    "faIcon": "fa fa-house-laptop",
+    "locales": {
+      "en": { "name": "Link to watch" }
     }
+  },
+
+  "apple": {
+    "logoUrl": "images/places/micro.png",
+    "faIcon": "fab fa-apple",
+    "locales": {
+      "en": { "name": "Link to watch" }
+    }
+  },
+
+  "coursera": {
+    "logoUrl": "images/places/economy.png",
+    "faIcon": "fa fa-house-laptop",
+    "": {
+      "en": { "name": "Link to watch" }
+    }
+  },
+
+  "forbes": {
+    "logoUrl": "images/places/circularity.png",
+    "faIcon": "fa-solid fa-newspaper",
+    "locales": {
+      "en": { "name": "Link to watch" }
+    }
+  },
+
+  "google": {
+    "logoUrl": "images/places/circularity.png",
+    "faIcon": "fab fa-google",
+    "locales": {
+      "en": { "name": "Link to watch" }
+    }
+  }
 }
