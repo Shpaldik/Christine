@@ -41,38 +41,6 @@
             "href": "mailto:battoryk@mail.ru"
         },
 
-        "facebook": {
-            "id": "facebook",
-            "value": "Christine",
-            "valueShort": "J. Einstein",
-            "faIcon": "fa-brands fa-facebook",
-            "href": "https://facebook.com"
-        },
-
-        "github": {
-            "id": "github",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
-            "faIcon": "fa-brands fa-github",
-            "href": "https://github.com"
-        },
-
-        "instagram": {
-            "id": "instagram",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
-            "faIcon": "fa-brands fa-instagram",
-            "href": "https://instagram.com"
-        },
-
-        "linkedin": {
-            "id": "linkedin",
-            "value": "@jonas.einstein.official",
-            "valueShort": "@jonas.einstein.official",
-            "faIcon": "fa-brands fa-linkedin",
-            "href": "https://linkedin.com"
-        },
-
         "phone": {
             "id": "phone",
             "value": "+44 7494 606802",
