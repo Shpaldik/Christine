@@ -1,25 +1,25 @@
 {
     "adobe": {
-        "logoUrl": "images/places/logo-adobe.png",
+        "logoUrl": "images/places/calculus.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Adobe Inc."}
+            "en": {"name": "Link to watch"}
         }
     },
 
     "apple": {
-        "logoUrl": "images/places/logo-apple.png",
+        "logoUrl": "images/places/micro.png",
         "faIcon": "fab fa-apple",
         "locales": {
-            "en": {"name": "Apple Inc."}
+            "en": {"name": "Link to watch"}
         }
     },
 
     "coursera": {
-        "logoUrl": "images/places/logo-coursera.png",
-        "faIcon": "fa fa-house-laptop",
+        "logoUrl": "images/places/economy.png",
+        "faIcon": "<fa-solid fa-hand-point-up",
         "locales": {
-            "en": {"name": "Coursera"}
+            "en": {"name": "Link to watch"}
         }
     },
 
@@ -27,7 +27,7 @@
         "logoUrl": null,
         "faIcon": "fa-solid fa-newspaper",
         "locales": {
-            "en": {"name": "Forbes"}
+            "en": {"name": "Link to watch"}
         }
     },
 
@@ -35,7 +35,7 @@
         "logoUrl": null,
         "faIcon": "fab fa-google",
         "locales": {
-            "en": {"name": "Google"}
+            "en": {"name": "Link to watch"}
         }
     },
 

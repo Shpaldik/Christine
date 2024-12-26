@@ -30,9 +30,6 @@
                             </h6>
                         </div>
 
-                        <div class="flex-column-date">
-                            <Tags :items="_formatItemDate(item)" class="mt-1 me-1"/>
-                        </div>
                     </div>
 
                     <!-- Item Body -->
@@ -83,16 +80,6 @@ const orderedItems = computed(() => {
  * @return {[{faIcon: string, label: string}]}
  * @private
  */
-const _formatItemDate = (item) => {
-    const period = item['period']
-    const from = utils.localizeDate(period[0], language.getSelectedLanguage()['id'])
-    const to = utils.localizeDate(period[1], language.getSelectedLanguage()['id'])
-
-    return [{
-        faIcon: 'fa fa-calendar-check',
-        label: from + ' <span class="me-1 ms-1">➔</span> ' + to
-    }]
-}
 </script>
 
 <style lang="scss" scoped>
