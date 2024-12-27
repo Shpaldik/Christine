@@ -19,7 +19,8 @@
     "logoUrl": "images/places/economy.png",
     "faIcon": "fa fa-house-laptop",
     "": {
-      "en": { "name": "Link to watch" }
+      "en": { "name": "Link to watch",
+      "url": "https://drive.google.com/file/d/1MV5kSfXfW0OZB0a9Lf2M8EwT7V2fkKuN/view?usp=share_link"}
     }
   },
 

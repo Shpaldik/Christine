@@ -3,7 +3,7 @@
         "logoUrl": "images/places/calculus.png",
         "faIcon": "fa fa-house-laptop",
         "locales": {
-            "en": {"name": "Link to watch"}
+            "en": {"name": "Link to watch - http://andrewvorchik.com/handbook-of-school-mathematics-and-calculus"}
         }
     },
 
@@ -11,7 +11,8 @@
         "logoUrl": "images/places/micro.png",
         "faIcon": "fab fa-apple",
         "locales": {
-            "en": {"name": "Link to watch"}
+            "en": { "name": "Link to watch - https://drive.google.com/file/d/1hh5WkZmrMcu67YcD17uiml1b8ipQrGI8/view",
+            "url": "https://drive.google.com/file/d/1MV5kSfXfW0OZB0a9Lf2M8EwT7V2fkKuN/view?usp=share_link"}
         }
     },
 
@@ -19,7 +20,7 @@
         "logoUrl": "images/places/economy.png",
         "faIcon": "<fa-solid fa-hand-point-up",
         "locales": {
-            "en": {"name": "Link to watch"}
+            "en": {"name": "Link to watch - https://drive.google.com/file/d/1MV5kSfXfW0OZB0a9Lf2M8EwT7V2fkKuN/view"}
         }
     },
 
@@ -73,7 +74,7 @@
         "logoUrl": "images/places/circularity.png",
         "faIcon": "fas fa-paint-brush",
         "locales": {
-            "en": {"name": "Link to watch"}
+            "en": {"name": "Link to watch - https://drive.google.com/file/d/1FCxRgBgObQL8wAqDsqq-pbhGgC_rVyiE/view"}
         }
     }
 }
