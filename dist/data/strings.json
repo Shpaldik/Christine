@@ -3,7 +3,6 @@
         "en": {
             "about": "About",
             "aboutProject": "About Article",
-            "achievements": "Achievements",
             "address": "Address",
             "advanced": "Advanced",
             "all": "All",
@@ -41,7 +40,6 @@
         "es": {
             "about": "Acerca de",
             "aboutProject": "Acerca del Proyecto",
-            "achievements": "Logros",
             "address": "Dirección",
             "advanced": "Avanzado",
             "all": "Todos",
@@ -78,7 +76,6 @@
         "fr": {
             "about": "À propos",
             "aboutProject": "À propos du Projet",
-            "achievements": "Réalisations",
             "address": "Adresse",
             "advanced": "Avancé",
             "all": "Tous",
@@ -115,7 +112,6 @@
         "zh": {
             "about": "关于",
             "aboutProject": "关于项目",
-            "achievements": "成就",
             "address": "地址",
             "advanced": "高级",
             "all": "全部",

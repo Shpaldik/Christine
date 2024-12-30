@@ -27,8 +27,8 @@
     "contact": {
         "address": {
             "id": "address",
-            "value": "United Kingdom",
-            "valueShort": "United Kingdom",
+            "value": "Russia",
+            "valueShort": "Russia",
             "faIcon": "fa-solid fa-city",
             "href": null
         },
@@ -43,8 +43,8 @@
 
         "phone": {
             "id": "phone",
-            "value": "+44 7494 606802",
-            "valueShort": "+44 7494 606802",
+            "value": "+79032348494",
+            "valueShort": "+79032348494",
             "faIcon": "fa-solid fa-phone",
             "href": "tel:447494606802"
         }
